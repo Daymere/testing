@@ -1,0 +1,15 @@
+<svg id="outline_card_icon" xmlns="http://www.w3.org/2000/svg" width="93" height="93" viewBox="0 0 93 93">
+  <circle id="Эллипс_975" data-name="Эллипс 975" cx="46.5" cy="46.5" r="46.5" fill="#3bb063"/>
+  <g id="Сгруппировать_36757" data-name="Сгруппировать 36757" transform="translate(26.241 31.819)">
+    <g id="Сгруппировать_36657" data-name="Сгруппировать 36657">
+      <g id="Прямоугольник_3933" data-name="Прямоугольник 3933" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+        <rect width="40.37" height="30.422" rx="4" stroke="none"/>
+        <rect x="2" y="2" width="36.37" height="26.422" rx="2" fill="none"/>
+      </g>
+      <g id="Прямоугольник_3936" data-name="Прямоугольник 3936" transform="translate(25.378 15.418)" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-width="3">
+        <rect width="8.316" height="7.454" rx="2" stroke="none"/>
+        <rect x="1.5" y="1.5" width="5.316" height="4.454" rx="0.5" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

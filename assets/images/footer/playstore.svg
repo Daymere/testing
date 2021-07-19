@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="291" height="97" viewBox="0 0 291 97">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.14" y1="1.075" x2="-0.241" y2="-0.372" gradientUnits="objectBoundingBox">
+      <stop offset="0"/>
+      <stop offset="1" stop-color="#313131"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.902" y1="0.859" x2="0.065" y2="-0.054" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#515151"/>
+      <stop offset="1" stop-color="#3d3d3d"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2196f3"/>
+      <stop offset="1" stop-color="#66ffd4"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4caf50"/>
+      <stop offset="1" stop-color="#c3f7a5"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffb236"/>
+      <stop offset="1" stop-color="#ffc466"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="0.5" x2="0.417" y2="0.917" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f44336"/>
+      <stop offset="1" stop-color="#a237af"/>
+    </linearGradient>
+  </defs>
+  <g id="playstore_button" transform="translate(0 -0.127)">
+    <rect id="Прямоугольник_3959" data-name="Прямоугольник 3959" width="291" height="97" rx="25" transform="translate(0 0.127)" fill="url(#linear-gradient)"/>
+    <path id="Вычитание_66" data-name="Вычитание 66" d="M266,97H25A24.98,24.98,0,0,1,0,72V25A24.98,24.98,0,0,1,25,0H266a24.979,24.979,0,0,1,25,25V72a24.979,24.979,0,0,1-25,25ZM25.67,1.94a23.026,23.026,0,0,0-23,23V72.06a23.026,23.026,0,0,0,23,23H265.45a23.026,23.026,0,0,0,23-23V24.94a23.026,23.026,0,0,0-23-23Z" transform="translate(0 0.127)" opacity="0.5" fill="url(#linear-gradient-2)"/>
+    <text id="GET_IT_On" data-name="GET IT On" transform="translate(89 35.126)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500" opacity="0.84"><tspan x="0" y="0">GET IT On</tspan></text>
+    <text id="Google_Play" data-name="Google Play" transform="translate(89 61.126)" fill="#fff" font-size="24" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Google Play</tspan></text>
+    <g id="google-play" transform="translate(36.308 27.437)">
+      <path id="Контур_59420" data-name="Контур 59420" d="M23.858,22.049,4.995,42.445a3.75,3.75,0,0,1-1.4-3.007V4.659a3.75,3.75,0,0,1,1.4-3.007Z" transform="translate(-3.596 -0.956)" stroke="#707070" stroke-width="0.213" fill="url(#linear-gradient-3)"/>
+      <path id="Контур_59421" data-name="Контур 59421" d="M32.783,13.969l-6.6,7.124L7.319.7A2.529,2.529,0,0,1,7.541.525,2.925,2.925,0,0,1,10.8.467Z" transform="translate(-5.921 0)" stroke="#707070" stroke-width="0.213" fill="url(#linear-gradient-4)"/>
+      <path id="Контур_59422" data-name="Контур 59422" d="M72.137,40.242A3.755,3.755,0,0,1,70.431,43.5l-6.293,3.868-6.6-7.124,6.6-7.124,6.293,3.868A3.755,3.755,0,0,1,72.137,40.242Z" transform="translate(-37.275 -19.149)" stroke="#707070" stroke-width="0.213" fill="url(#linear-gradient-5)"/>
+      <path id="Контур_59423" data-name="Контур 59423" d="M32.783,57.133,10.8,70.635a2.963,2.963,0,0,1-3.258-.057,2.532,2.532,0,0,1-.222-.172l18.863-20.4Z" transform="translate(-5.921 -28.916)" stroke="#707070" stroke-width="0.213" fill="url(#linear-gradient-6)"/>
+    </g>
+  </g>
+</svg>

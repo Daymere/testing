@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="78" height="78" viewBox="0 0 78 78">
+  <g id="bank_icon" transform="translate(0 0)">
+    <circle id="Эллипс_975" data-name="Эллипс 975" cx="39" cy="39" r="39" transform="translate(0 0)" fill="#6e71c7"/>
+    <g id="bank-building" transform="translate(21.997 22.005)">
+      <g id="Layer_1_78_" transform="translate(0 0)">
+        <g id="Сгруппировать_37371" data-name="Сгруппировать 37371">
+          <path id="Контур_59661" data-name="Контур 59661" d="M32.446,42.718H1.545a1.545,1.545,0,0,0,0,3.091h30.9a1.545,1.545,0,0,0,0-3.091Z" transform="translate(0 -11.819)" fill="#fff"/>
+          <path id="Контур_59662" data-name="Контур 59662" d="M4.214,31.261a1.546,1.546,0,0,0,0,3.092H31.253a1.546,1.546,0,0,0,0-3.092h-.386V17.355h.386a.772.772,0,0,0,0-1.544H4.214a.772.772,0,0,0,0,1.544H4.6V31.26H4.214ZM27.776,17.355V31.26H23.141V17.355Zm-7.726,0V31.26H15.415V17.355Zm-12.36,0h4.635V31.26H7.69Z" transform="translate(-0.738 -4.38)" fill="#fff"/>
+          <path id="Контур_59663" data-name="Контур 59663" d="M1.545,10.054H32.461a1.546,1.546,0,0,0,.5-3.008L17.631.147a1.548,1.548,0,0,0-1.268,0L.912,7.1a1.545,1.545,0,0,0,.634,2.954Z" transform="translate(0 -0.012)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
